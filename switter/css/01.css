@@ -1,0 +1,17 @@
+@charset"UTF-8";
+body{
+      background-image:url("haikei.gif");
+      background-repeat:no-repeat;
+      background-position:right bottom;
+      background-attachment:fixed;
+      background-size:100;　
+    }
+
+
+.msg{
+  margin : 40px;
+   border: 1px solid #aaa;
+   padding: 10px 100px;
+   text-align: center;
+
+}
